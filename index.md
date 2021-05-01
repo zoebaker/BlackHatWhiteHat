@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Zoe's "Black Hat,White Hat"
 
-You can use the [editor on GitHub](https://github.com/zoebaker/BlackHatWhiteHat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Black Hat 
+[Link to Black Hat Vis]()
 
-### Markdown
+- The colors used do not correlate to any value
+- There are too many colors used
+- There's no ordering to the states' appearance
+- Grid lines make it difficult to read
+- there are no axes labels
+    - the lack of x axis labels makes the graph misleading because the measurement is unclear
+- the source of the data is not present
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## White Hat 
+[Link to Black Hat Vis]()
+- colors correlated to the region
+- axis labels
+- no grid lines
+- larger bar labels
+- clear unit labels
+- appropriate color scale and legend
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zoebaker/BlackHatWhiteHat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
