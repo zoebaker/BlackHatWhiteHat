@@ -2,7 +2,7 @@
 
 
 ## Black Hat 
-[Link to Black Hat Vis]()
+[Link to Black Hat Vis](https://bl.ocks.org/zoebaker/03953116547f68d2b69d1f816aa68357)
 
 - The colors used do not correlate to any value
 - There are too many colors used
@@ -13,7 +13,7 @@
 - the source of the data is not present
 
 ## White Hat 
-[Link to Black Hat Vis]()
+[Link to Black Hat Vis](https://bl.ocks.org/zoebaker/0f67c2d4914ad6024cacbcd7cfd9bcaf)
 - colors correlated to the region
 - axis labels
 - no grid lines
